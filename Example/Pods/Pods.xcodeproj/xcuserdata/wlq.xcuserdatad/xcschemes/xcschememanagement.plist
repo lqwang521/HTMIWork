@@ -14,6 +14,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>HTMINetWork.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>HTMIWork.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -37,11 +42,6 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>3E80D6A87814C76D02AA6A2286C13FB4</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
 		<key>73B64AA41C449DB8A83EDACCA0102135</key>
 		<dict>
 			<key>primary</key>
@@ -52,7 +52,17 @@
 			<key>primary</key>
 			<true/>
 		</dict>
+		<key>B73D682CEF0DC8A46208602A06E805B4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>CF671F7E57B92905F1CC91D036D6B4A7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F1C6741521A793809C7711A4B47E43F5</key>
 		<dict>
 			<key>primary</key>
 			<true/>

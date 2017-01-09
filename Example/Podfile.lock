@@ -19,12 +19,15 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - HTMIWork (0.1.1):
+  - HTMINetWork (1.1.4):
+    - AFNetworking (~> 3.1.0)
+  - HTMIWork (0.1.5):
     - AFNetworking (~> 3.1.0)
 
 DEPENDENCIES:
   - AFNetworking (~> 3.1.0)
   - FBSnapshotTestCase
+  - HTMINetWork (~> 1.1.4)
   - HTMIWork (from `../`)
 
 EXTERNAL SOURCES:
@@ -34,8 +37,9 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  HTMIWork: 83252d1fd44c59e80e0ee898fcf1bee74ac8ba20
+  HTMINetWork: 9825e3b736588e8f7874cd1f86ddb715f7e7ef1f
+  HTMIWork: 8cf23f9bacdf42d45698dc7dbf7b79222c323417
 
-PODFILE CHECKSUM: 6f669646036715d9bff7418dd6521d801acb2a58
+PODFILE CHECKSUM: 5da4e0aa18f877f097a6a1cfadea944b6a9006eb
 
 COCOAPODS: 1.2.0.beta.1

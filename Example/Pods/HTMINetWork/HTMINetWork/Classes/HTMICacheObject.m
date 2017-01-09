@@ -7,7 +7,7 @@
 //
 
 #import "HTMICacheObject.h"
-#import "HTMIWork/HTMINetworkConfiguration.h"
+#import "HTMINetworkConfiguration.h"
 
 @interface HTMICacheObject()
 

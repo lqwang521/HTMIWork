@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'HTMIWork'
-  s.version          = '0.1.3'
+  s.version          = '0.1.5'
   s.summary          = 'jsdkjdfdkldf .'
 
 # This description is used to generate tags and improve search results.
@@ -36,7 +36,7 @@ TODO: 1231311313113131111111131.
   #   'HTMIWork' => ['HTMIWork/Assets/*.png']
   # }
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
+  s.public_header_files = 'HTMIWork/Classes/**/*.h'
   s.frameworks = 'UIKit'
   s.dependency 'AFNetworking', '~> 3.1.0'
 end

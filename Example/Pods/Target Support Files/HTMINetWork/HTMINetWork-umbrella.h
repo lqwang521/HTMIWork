@@ -10,16 +10,16 @@
 #endif
 #endif
 
-#import "HTMINetworkConfiguration.h"
 #import "HTMIBaseRequest.h"
 #import "HTMICache.h"
 #import "HTMICacheObject.h"
+#import "HTMINetworkConfiguration.h"
 #import "HTMIRequestProxy.h"
 #import "HTMIResponse.h"
 #import "NSArray+HTMINetworkParams.h"
 #import "NSDictionary+HTMINetworkParams.h"
 #import "NSString+HTMINetworkMatch.h"
 
-FOUNDATION_EXPORT double HTMIWorkVersionNumber;
-FOUNDATION_EXPORT const unsigned char HTMIWorkVersionString[];
+FOUNDATION_EXPORT double HTMINetWorkVersionNumber;
+FOUNDATION_EXPORT const unsigned char HTMINetWorkVersionString[];
 

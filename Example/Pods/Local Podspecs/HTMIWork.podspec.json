@@ -1,6 +1,6 @@
 {
   "name": "HTMIWork",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "summary": "jsdkjdfdkldf .",
   "description": "TODO: 1231311313113131111111131.",
   "homepage": "https://github.com/lqwang521/HTMIWork",
@@ -13,12 +13,13 @@
   },
   "source": {
     "git": "https://github.com/lqwang521/HTMIWork.git",
-    "tag": "0.1.1"
+    "tag": "0.1.5"
   },
   "platforms": {
     "ios": "8.0"
   },
   "source_files": "HTMIWork/Classes/**/*",
+  "public_header_files": "HTMIWork/Classes/**/*.h",
   "frameworks": "UIKit",
   "dependencies": {
     "AFNetworking": [
