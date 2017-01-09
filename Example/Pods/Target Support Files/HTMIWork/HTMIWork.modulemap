@@ -1,0 +1,6 @@
+framework module HTMIWork {
+  umbrella header "HTMIWork-umbrella.h"
+
+  export *
+  module * { export * }
+}

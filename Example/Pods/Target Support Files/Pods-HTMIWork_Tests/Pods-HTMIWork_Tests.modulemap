@@ -1,0 +1,6 @@
+framework module Pods_HTMIWork_Tests {
+  umbrella header "Pods-HTMIWork_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
