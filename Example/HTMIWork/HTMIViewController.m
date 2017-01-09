@@ -8,6 +8,8 @@
 
 #import "HTMIViewController.h"
 
+#import "HTMICache.h"
+
 @interface HTMIViewController ()
 
 @end

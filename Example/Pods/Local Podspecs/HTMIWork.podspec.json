@@ -1,9 +1,9 @@
 {
   "name": "HTMIWork",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "jsdkjdfdkldf .",
   "description": "TODO: 1231311313113131111111131.",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/HTMIWork",
+  "homepage": "https://github.com/lqwang521/HTMIWork",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,13 +12,14 @@
     "ApplePen": "731696053@qq.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/HTMIWork.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/lqwang521/HTMIWork.git",
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"
   },
   "source_files": "HTMIWork/Classes/**/*",
+  "frameworks": "UIKit",
   "dependencies": {
     "AFNetworking": [
       "~> 3.1.0"

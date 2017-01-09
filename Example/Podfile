@@ -1,8 +1,11 @@
+source 'https://git.coding.net/MyCoding521/HTMIWork.git'
+source 'https://github.com/CocoaPods/Specs.git'
 use_frameworks!
 
 target 'HTMIWork_Example' do
   pod 'HTMIWork', :path => '../'
   pod'AFNetworking', '~> 3.1.0'
+#  pod 'HTMIWork', '~> 0.1.1'
 
   target 'HTMIWork_Tests' do
     inherit! :search_paths
