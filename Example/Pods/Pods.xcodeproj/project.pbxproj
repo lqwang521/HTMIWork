@@ -374,6 +374,13 @@
 			path = Configuration;
 			sourceTree = "<group>";
 		};
+		3758D1011E23A7C200442821 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
 		3BFB52DBFFF380A199098AD3250B174E /* Reachability */ = {
 			isa = PBXGroup;
 			children = (
@@ -446,6 +453,7 @@
 		6391CB2E71FDAB992A6DAF729E2BAA49 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				3758D1011E23A7C200442821 /* Assets */,
 				3758D0FF1E23A38100442821 /* Configuration */,
 				E6BC0E2FC15D61C3F7B8FC281B647BA2 /* HTMIBaseRequest.h */,
 				1A1911054CDDA50DBE451D767B5734E6 /* HTMIBaseRequest.m */,
