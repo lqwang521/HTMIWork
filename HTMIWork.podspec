@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'HTMIWork'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'jsdkjdfdkldf .'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: 1231311313113131111111131.
                        DESC
 
-  s.homepage         = 'https://github.com/<GITHUB_USERNAME>/HTMIWork'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
+  s.homepage         = 'https://github.com/lqwang521/HTMIWork'
+
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'ApplePen' => '731696053@qq.com' }
-  s.source           = { :git => 'https://github.com/<GITHUB_USERNAME>/HTMIWork.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/lqwang521/HTMIWork.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
@@ -37,6 +37,6 @@ TODO: 1231311313113131111111131.
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
+  s.frameworks = 'UIKit'
   s.dependency 'AFNetworking', '~> 3.1.0'
 end
